@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: eurekaserver-test
+    
+name: nick22
+age : 192222
