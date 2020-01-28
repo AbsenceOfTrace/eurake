@@ -1,0 +1,5 @@
+eureka: 
+  client: 
+    ##客户端默认去这个地址找注册中心
+    service-url:
+      defaultZone: http://localhost:10000/eureka/ 
