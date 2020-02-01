@@ -4,6 +4,7 @@ age : 122222
 spring:
   profiles:
     active: dev
+    
 ---
 spring: 
     profiles: dev
