@@ -1,12 +1,7 @@
 name: ERDONG111
 age : 122222
 
-spring:
-  profiles:
-    active: dev
-
 spring: 
-    profiles: dev
     application: 
       name: YespmpConsole
     datasource:
