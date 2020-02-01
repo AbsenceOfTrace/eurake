@@ -1,7 +1,3 @@
 name: ERDONG111
-age : 1565222
+age : 1
 
-eureka:
-  client:
-    service-url:
-      defaultZone: http://127.0.0.1:10000/eureka/
