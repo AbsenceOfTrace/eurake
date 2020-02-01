@@ -1,11 +1,11 @@
 name: ERDONG111
-age : 11222
+age : 1
 
 spring: 
     application: 
       name: YespmpConsole
     datasource:
-        url: jdbc:mysql://localhost:3307/yespmpdb?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai&allowMultiQueries=true
+        url: jdbc:mysql://localhost:3307/yespmpdb2?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai&allowMultiQueries=true
         username: root
         password: 9889998
               # 使用druid数据源
