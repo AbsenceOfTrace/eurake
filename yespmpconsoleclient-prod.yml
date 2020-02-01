@@ -25,10 +25,6 @@ spring:
         testOnReturn: false
         poolPreparedStatements: true
         maxOpenPreparedStatements: 20
-        maxPoolPreparedStatementPerConnectionSize: 20
-        filters: stat,wall,slf4j
-        connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
-        useGlobalDataSourceStat: true
     freemarker:
         allow-request-override: false
         cache: false
